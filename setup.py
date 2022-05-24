@@ -7,7 +7,7 @@ setuptools.setup(name= "pythonProject",
                  author_mail="tugcedogann@gmail.com",
                  description="Data Science Tools",
                  url="https://github.com/TWOCHE/pythonProject",
-                 keywords=["data science","machine learning", "bootcamp"],
+                 keywords=["data science","machine learning","models"],
                  classifiers=[
                      "Development Status :: 4 - Beta",
                      "License :: OSI Approved :: MIT License",
