@@ -1,12 +1,12 @@
 import setuptools
 
-setuptools.setup(name= "dsbootcamp4v2",
+setuptools.setup(name= "pythonProject",
                  version="0.0.1",
                  license="MIT",
                  author="Tugce Dogan",
                  author_mail="tugcedogann@gmail.com",
                  description="Data Science Tools",
-                 url="https://github.com/TWOCHE/dsbootcamp4",
+                 url="https://github.com/TWOCHE/pythonProject",
                  keywords=["data science","machine learning", "bootcamp"],
                  classifiers=[
                      "Development Status :: 4 - Beta",
